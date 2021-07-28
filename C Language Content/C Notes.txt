@@ -1,0 +1,30 @@
+content 22= is in under coding in Vs code. 
+There is an error in code.
+
+content 25= There serval codes or keywords,
+which I have to explore and write explainable
+or understandable programs on it. The following keywords
+are at last of content25.
+
+content 26= only contains C struct. but need to Explorer 
+1) C Structure and Functiuon 2) C structs and Pointers 3) C Files Examples.
+
+#36= Contains Exercise
+
+Content 27= typedef, typedef concept with struct, typedef concept with pointers.
+
+#76 and #76 both are remaining so complete it. 
+
+
+Vs code::
+AutoVarCnt36= is not working properly as I want, here  I want to send the 
+addition value of line 23 to func2.
+
+BillCnt55.c and Cnt56.c are in VS but not understand by me.
+
+MaTRICES IS vS CODE BUT STILL NOT UNDERSTAND.
+
+
+OTHER::-
+* = derefference , * =String, * = Pointer
+
